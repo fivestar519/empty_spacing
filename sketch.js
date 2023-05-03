@@ -1,3 +1,6 @@
+// Copyright (c) <2023>, <Ng Sing Yiu>
+// All rights reserved.
+
 //variable
 let tThunderX = 0;
 let tThunderY = 0;
