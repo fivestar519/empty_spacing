@@ -167,7 +167,7 @@ lineYB += 0.055 ;
     textSize(25);
     textFont(font1);
     fill(80, 24, 234, 191);
-    text("Mouse Interactivity", 9.5, 685);
+    text("Mouse Interaction", 9.5, 685);
   } //14, 695.5
 }
 
