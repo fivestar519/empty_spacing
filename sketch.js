@@ -34,7 +34,8 @@ function preload() {
 
 function setup() {
   createCanvas(1280, 720);
-
+ pixelDensity(0.75);
+  
   //class set up
   for (let l = 0; l < meteorNum; l++) {
     meteors[l] = new meteor();
@@ -46,7 +47,7 @@ function setup() {
 
 function draw() {
  // song.loop();
-  frameRate(25);
+  frameRate(22);
 
   if (mouseRC == 0) {
     fill(255);
