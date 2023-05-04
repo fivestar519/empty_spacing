@@ -127,8 +127,7 @@ function draw() {
     // Blind Pattern
     tBlindY = 0;
 
-    for (let y = height; y > 0; y -= 11) {
-      //y -=17
+    for (let y = height; y > 0; y -= 15) {
       tBlindX = 0;
 
       for (let x = 0; x < width; x++) {
